@@ -1,6 +1,6 @@
 ---
 title: Best 2FA apps that respect your privacy
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2024-11-30 12:00:00
 categories: [Review, Apps]
 tags: [privacy, apps, 2fa]     # TAG names should always be lowercase
 ---
