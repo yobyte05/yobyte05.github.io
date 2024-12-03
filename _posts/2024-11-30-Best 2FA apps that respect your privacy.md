@@ -2,7 +2,7 @@
 title: Best 2FA apps that respect your privacy
 date: 2024-11-30 12:00:00
 categories: [Review, Apps]
-tags: [privacy, apps, 2fa]     # TAG names should always be lowercase
+tags: [privacy, apps, 2fa, review]     # TAG names should always be lowercase
 ---
 
 Two-factor authentication (2FA) is an extra layer of security when we try to log in to certain websites. It's used to enhance your security and is highly recommended, while there are various 2FA methods like hardware keys, Apps, SMS, etc. Today, we will cover the Apps.
