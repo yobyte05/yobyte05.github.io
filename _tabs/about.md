@@ -8,4 +8,3 @@ Hey, I'm a dude who is fascinated by random things. I'm a certified "Oh, that's 
 If you're like me, let's connect. We can chat about anything this world offers.
 
 Have any interesting ideas? Email me, and we can talk about it :-)
-[Email](mailto:jonasget@proton.me)
