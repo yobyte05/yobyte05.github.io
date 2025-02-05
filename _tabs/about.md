@@ -4,9 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I’m **YoByte**!
-I’m a lifelong learner with a wide range of interests, from tech and science to philosophy and art. This is where I document my journey—sharing insights, challenges, and discoveries as I explore life’s endless possibilities.
+Hey, I'm a dude who is fascinated by random things. I'm a certified "Oh, that's interesting " enthusiast. I share everything I find interesting. 
+If you're like me, let's connect. We can chat about anything this world offers.
 
-Let’s connect and grow together!
-
-[Twitter](https://twitter.com/yobyte05)
+Have any interesting ideas? Email me, and we can talk about it :-)
+[Email] (jonasget@proton.me)
