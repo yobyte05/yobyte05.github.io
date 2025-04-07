@@ -1,3 +1,11 @@
+---
+title: What are the chances?
+date: 2025-04-07
+categories: [Views]
+tags: [life, path, journey]
+---
+
+
 > *And now, the end is near*
 > *And so I face the final curtain*
 > *My friend, I'll say it clear*
