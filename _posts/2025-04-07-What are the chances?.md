@@ -6,10 +6,10 @@ tags: [life, path, journey]
 ---
 
 
-> *And now, the end is near*
-> *And so I face the final curtain*
-> *My friend, I'll say it clear*
-> *I'll state my case, of which I'm certain*
+> *And now, the end is near*  
+> *And so I face the final curtain*  
+> *My friend, I'll say it clear*  
+> *I'll state my case, of which I'm certain*  
 
 
 
@@ -25,10 +25,10 @@ I like the idea of sticking to something for at least three years before giving 
 There is nothing I want in this life more than freedom and independence. I don't want to follow any other person's path; I want to do it my way. I would rather be wrong following my path than following another man's footsteps.
 In the end, I want to be on my deathbed and mumble Frank Sinatra's song.
 
-> *I've lived a life that's full*
-> *I traveled each and every highway*
-> *And more, much more than this*
-> ***I did it my way***
+> *I've lived a life that's full*  
+> *I traveled each and every highway*  
+> *And more, much more than this*  
+> ***I did it my way***  
 
 
 ![Visual represenation of chances of existence](assets/posts/What are the odds graphics.png)
