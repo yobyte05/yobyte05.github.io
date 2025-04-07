@@ -18,7 +18,7 @@ One day, I thought about my existence and the chances of being somewhere I wante
 I found a cool article by [Dr. Ali Victor Binazir](https://happinessengineering.com/) on the chances of our existence. The number is very, very small, almost zero. I was surprised that it is so tiny, yet we exist.  
 
 This person did a whole calculation, starting with the probability of our parents meeting and continuing to the probability of our ancestors reproducing successfully.  
-After all the calculations, the probability of existing becomes $1 \text{:} 10^{2{,}685{,}000}$, which is another way of saying almost ZERO.  
+After all the calculations, the probability of existing becomes 1:10^(2,685,000), which is another way of saying almost ZERO.  
 If the probability of my existence is too small, yet I exist, what are the chances of achieving something great for a broke college dropout in his 20s living in a third-world country?  
 
 The odds could be against me, but it's not impossible. Many have done it in the past with even more struggles and shortcomings.
